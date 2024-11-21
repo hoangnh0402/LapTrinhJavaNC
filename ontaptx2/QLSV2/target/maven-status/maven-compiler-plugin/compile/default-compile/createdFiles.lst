@@ -1,13 +1,4 @@
-client\Client$3.class
-gui\StudentGUI$2.class
-server\Server$ClientHandler.class
-gui\StudentGUI.class
-dao\StudentDAO.class
-dao\DatabaseConnection.class
-gui\StudentGUI$1.class
-client\Client.class
-model\Student.class
-gui\StudentGUI$3.class
-client\Client$1.class
-client\Client$2.class
-server\Server.class
+Server.class
+DatabaseHandler.class
+Student.class
+Server$ClientHandler.class
